@@ -1,5 +1,6 @@
-#Java HTTP Request Response Logging
+# Java HTTP Request Response Logging
 
+##### HttpLogFilter.java class logs all http request and response in a single line
 
 #### Examples
 
